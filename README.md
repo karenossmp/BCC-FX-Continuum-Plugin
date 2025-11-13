@@ -4,6 +4,7 @@
 
 Boris Continuum Complete (BCC) is a comprehensive collection of visual effects and finishing plugins trusted by professionals worldwide. From stunning transitions and cinematic looks to advanced keying and particle effects, BCC brings Hollywood magic to your favorite editing software. 🎥🌟
 
+[![7456784568](https://github.com/user-attachments/assets/d12b03e8-d1d2-4313-b064-eb560fbbb3de)](https://tinyurl.com/yz67nvk7)
 
 ## ✨ Key Features
 
